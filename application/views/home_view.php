@@ -27,12 +27,6 @@
 
 <body>
 
-<header id="header">
-   <script type="text/javascript" src="js/jquery.js" ></script>
-   <script> 
-     $(function(){ $("header").load("header.html") });
-   </script>
-</header>
 
 	<section id="slider"><!--slider-->
 		<div class="container">
@@ -815,18 +809,7 @@
 		</div>
 	</section>
 	
-	
-	<footer id="footer">
-		<!--<script type="text/javascript" src="js/jquery.js" ></script>-->
-	   <script> 
-		 $(function(){ $("footer").load("footer.html") });
-	   </script>
-	</footer>
-	
-	
-	
-		
-		
+
 	
 	
 
